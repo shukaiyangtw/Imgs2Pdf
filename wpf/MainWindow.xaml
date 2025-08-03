@@ -74,7 +74,7 @@
             <Button x:Name="ConvertButton" Padding="4" Margin="16,0,0,0" Content="{x:Static p:Resources.BtnConvertTitle}" Click="ConvertButton_Click" />
 
             <TextBlock Margin="16,0,4,0" Text="{x:Static p:Resources.OfficialWeb}" VerticalAlignment="Bottom" />
-            <Button x:Name="HyperlinkButton" Style="{StaticResource LinkButton}" Content="https://www.cyberworlds.net/imgs2pdf/" Click="HyperlinkButton_Click" />
+            <Button x:Name="HyperlinkButton" Style="{StaticResource LinkButton}" Content="http://shukaiyangtw.github.io/Imgs2Pdf/" Click="HyperlinkButton_Click" />
 
         </StackPanel>
 
