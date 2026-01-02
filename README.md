@@ -1,1 +1,3 @@
 This program simply merges multiple JPEG or PNG photo files into one PDF file of A4 page-size. The dragged files will be sorted by file names. Each photo occupies one page and is centered. It is useful to generate simple electronic albums, or to generate the merged files for printing, or to generate homework files for online learning. Just drag one or more JPG/PNG files into the window, then press "Convert to PDF" button to generate the file.
+
+Online user manual: https://shukaiyangtw.github.io/Imgs2Pdf/
